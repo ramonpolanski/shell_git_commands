@@ -1,5 +1,7 @@
-count = 1
+import random
 
-while count < 10:
-    print(count)
-    count += 1
+def generate_random_number():
+    return random.randint(1, 100)
+
+# Example usage
+print(generate_random_number())
