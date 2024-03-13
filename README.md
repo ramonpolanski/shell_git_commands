@@ -1,4 +1,4 @@
-# Read me /(please/)
+# Read me (please)
 ## Heading 2
 ### Heading 3
 
